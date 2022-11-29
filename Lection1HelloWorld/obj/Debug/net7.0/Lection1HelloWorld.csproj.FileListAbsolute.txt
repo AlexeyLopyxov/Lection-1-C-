@@ -1,0 +1,15 @@
+D:\VS\Учеба\Знакомство с C#\Lection1HelloWorld\bin\Debug\net7.0\Lection1HelloWorld.exe
+D:\VS\Учеба\Знакомство с C#\Lection1HelloWorld\bin\Debug\net7.0\Lection1HelloWorld.deps.json
+D:\VS\Учеба\Знакомство с C#\Lection1HelloWorld\bin\Debug\net7.0\Lection1HelloWorld.runtimeconfig.json
+D:\VS\Учеба\Знакомство с C#\Lection1HelloWorld\bin\Debug\net7.0\Lection1HelloWorld.dll
+D:\VS\Учеба\Знакомство с C#\Lection1HelloWorld\bin\Debug\net7.0\Lection1HelloWorld.pdb
+D:\VS\Учеба\Знакомство с C#\Lection1HelloWorld\obj\Debug\net7.0\Lection1HelloWorld.csproj.AssemblyReference.cache
+D:\VS\Учеба\Знакомство с C#\Lection1HelloWorld\obj\Debug\net7.0\Lection1HelloWorld.GeneratedMSBuildEditorConfig.editorconfig
+D:\VS\Учеба\Знакомство с C#\Lection1HelloWorld\obj\Debug\net7.0\Lection1HelloWorld.AssemblyInfoInputs.cache
+D:\VS\Учеба\Знакомство с C#\Lection1HelloWorld\obj\Debug\net7.0\Lection1HelloWorld.AssemblyInfo.cs
+D:\VS\Учеба\Знакомство с C#\Lection1HelloWorld\obj\Debug\net7.0\Lection1HelloWorld.csproj.CoreCompileInputs.cache
+D:\VS\Учеба\Знакомство с C#\Lection1HelloWorld\obj\Debug\net7.0\Lection1HelloWorld.dll
+D:\VS\Учеба\Знакомство с C#\Lection1HelloWorld\obj\Debug\net7.0\refint\Lection1HelloWorld.dll
+D:\VS\Учеба\Знакомство с C#\Lection1HelloWorld\obj\Debug\net7.0\Lection1HelloWorld.pdb
+D:\VS\Учеба\Знакомство с C#\Lection1HelloWorld\obj\Debug\net7.0\Lection1HelloWorld.genruntimeconfig.cache
+D:\VS\Учеба\Знакомство с C#\Lection1HelloWorld\obj\Debug\net7.0\ref\Lection1HelloWorld.dll
